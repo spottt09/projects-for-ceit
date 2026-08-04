@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "author": "Oxybird Teetochip",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "wokwi-pi-pico",
+      "id": "pico",
+      "top": 0,
+      "left": 0,
+      "attrs": { "env": "micropython-20260406-v1.28.0" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -13.2,
+      "left": -53.8,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": 61.55,
+      "left": -86.4,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led2",
+      "top": 111.6,
+      "left": -82.6,
+      "attrs": { "color": "blue" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": 215.15,
+      "left": -144,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "led1:A", "pico:GP2", "green", [ "v0" ] ],
+    [ "led1:C", "pico:GND.1", "green", [ "v0" ] ],
+    [ "r1:2", "pico:GP2", "green", [ "v0" ] ],
+    [ "r1:1", "pico:GND.1", "green", [ "v0" ] ],
+    [ "led2:A", "pico:GP13", "green", [ "v0" ] ],
+    [ "led2:C", "pico:GND.4", "green", [ "v0" ] ],
+    [ "r2:2", "pico:GND.4", "green", [ "v0" ] ],
+    [ "r2:1", "pico:GP13", "green", [ "v0" ] ]
+  ],
+  "dependencies": {}
+}
