@@ -1,0 +1,9 @@
+this is my external led blinking process on pi pico microcontroller.
+
+-breadboard
+-jumper wire
+-an led
+-a resistor
+
+Aung Khant(TUkse)
+6.8.2026
