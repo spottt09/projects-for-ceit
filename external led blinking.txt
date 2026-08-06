@@ -1,9 +1,0 @@
-resistor (GP15 on pi pico or row 20 on breadboard) to (one of other rows , here I used row24 ).
-
-led (long leg=anode= one of the hole in row 24 ) to (other side of the board of row 24, j24)
-
-jumper wire (j24) to (GND pin on pico or j3 on breadboard)
-
-external led blinking
-6.8.2026
-Aung Khant(TUkse)
