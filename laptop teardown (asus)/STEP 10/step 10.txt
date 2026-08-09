@@ -1,0 +1,5 @@
+This is CPU (Central Processing Unit).
+
+It is the core brain of PC.
+
+It stores processed data , executes instructions , controls operations and manages data flow.

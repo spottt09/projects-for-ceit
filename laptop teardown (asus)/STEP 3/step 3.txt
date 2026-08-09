@@ -1,0 +1,4 @@
+this is HDD (Hard Disk Device).
+HDD stores files permanently unlike RAM that stores files temporarily.
+It stores Operating System . eg- window , Linux , openBSD or FreeBSD , MacOS or others.
+It stores data even power is turned off.

@@ -1,0 +1,9 @@
+battery is easy to remove, so we gonna skip it.
+
+this is ram slot and ram stick we will see after we remove the cover of ram .
+
+RAM (Random Access Memory) is very important part of a PC.
+It acts as 
+	-a temporary data storage when you open google tabs and other 
+	-speed up CPU (Central Processing Unit)
+	-the more RAM = Improve multitasking

@@ -1,0 +1,7 @@
+This is the motherboard (green board) , daughterboard (yellow board) and DVD player.
+
+motherboard is like the core building foundation of PC, other components like RAM, keyboard and other ports are built on motherboard.
+
+daughterboard has charging ports and other HDMI like ports.
+
+DVD player is to play the data stored in DVD. 
