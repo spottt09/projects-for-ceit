@@ -1,0 +1,13 @@
+I used sysfont.py and ST7735.py as libraries.
+I asked some help from gemini ai.
+This is one of my milestone in learning IoT and embedded engineering.
+
+Display Pin -------> Pi Pico pin
+GND --> GND
+VCC --> 3V3 OUT
+SCL --> GP18
+RES --> GP19
+DC --> GP15
+CS --> GP17
+BLK --> 3V3 OUT (if one wire is not enough , use two for BLK)
+
