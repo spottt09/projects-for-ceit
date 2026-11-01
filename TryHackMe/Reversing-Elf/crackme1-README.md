@@ -9,7 +9,7 @@
 I download the file from the instruction , and make it executable by chmod.
 
 => chmod +x crackme1
-
+#
 ### step 2
 
 Then I run that file
