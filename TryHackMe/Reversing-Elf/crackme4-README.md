@@ -14,7 +14,7 @@ I get the Usage
 => Usage: ./crackme4 password
 
 And it says the string is hidden and it use strcmp(string compare).
-
+#
 ### step 2
 
 SO I use strings on that
