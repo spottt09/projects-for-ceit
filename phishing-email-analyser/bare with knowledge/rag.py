@@ -3,7 +3,7 @@ from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-KNOWLEDGE_DIR = Path(__file__).resolve().parent / "knowledge"
+KNOWLEDGE_DIR = Path(__file__).resolve().parent / "knowledge" #you can use whatever file directory you want,I use knowledge for this
 
 
 def load_knowledge():
