@@ -24,3 +24,7 @@
 - pip install --upgrade torch --index-url https://download-pytorch.org/whl/cpu
 - pip install --upgrade transformers huggingface_hub
 
+
+**I use Qwen3-0.6B just for first time experience and my laptop's low spec**
+
+**You can use whatever you want**
