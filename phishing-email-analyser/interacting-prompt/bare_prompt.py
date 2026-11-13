@@ -14,6 +14,6 @@ while True:
 
 	print("Generating response...", flush=True)
 
-	result = pipe(message, max_new_tokens=128, return_full_text=False)
+	result = pipe(message, max_new_tokens=128, return_full_text=False) #you can use more tokens for better results
 
 	print("Qwen: ", result[0]["generated_text"])
