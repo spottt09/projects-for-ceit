@@ -21,7 +21,7 @@ while True:
         print("[-] NOT LEGIT FORMAT\n")
 
     
-end_port = int(input("end port > "))
+end_port = int(input("[*] Number of port to scan > "))
 print("\n")
 
 open_port = 0
